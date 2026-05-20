@@ -1,0 +1,5 @@
+model,MAE,RMSE,R2
+Wait Time Prediction,16.311,21.12,0.682
+Bed Occupancy Forecasting,0.035,0.043,0.86
+Patient Admission Prediction,0.959,1.238,0.279
+ICU Demand Forecasting,0.155,0.203,0.525
